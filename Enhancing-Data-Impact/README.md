@@ -1,0 +1,6 @@
+## Enhancing Data Impact: A Critical Design Analysis of a Localized Policy Informatics Dashboard
+
+### Evaluating a National Capital Region dashboard by extending interaction design principles to information visualization.
+
+In July 2023 I began working with the University of Virginia’s Biocomplexity Institute at their Social and Decision Analytics Division. During this time, I, along with most of the division, have worked on the Social Impact Data Commons project where we are providing curated, open-source data at sub-county geographic levels. As a product of this project, we host a dashboard displaying data on the National Capital Region. The data we are providing is powerful and has the potential to inform policy that can affect real change, especially at the local level. However, there are issues with the design of the current dashboard such that the capabilities of the data are not matched in the scope of the dashboard. Using a heuristic method that combines Don Norman’s design principles with tested dashboard usability criteria, I show that our current dashboard lacks discoverability and understanding. Without these characteristics, our dashboard is difficult
+to employ. Throughout this book, I point to specific areas hindering the efficacy of our dashboard and provide suggestions for overcoming these issues.
